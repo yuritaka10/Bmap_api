@@ -1,0 +1,36 @@
+  html {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  
+  .yoko {
+    display: flex;
+    height: 100%;
+  }
+
+
+    
+
+.star_rating{
+    user-select: none;
+}
+
+.star{
+    color: #ff9800;
+    background-color: unset;
+    border: none;
+    margin:0;
+    padding: 0;
+}
+
+.star:hover{
+     cursor: pointer;
+}
+
